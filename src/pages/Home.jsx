@@ -1,6 +1,5 @@
 import React from "react";
-
-import CardList from "../components/CardList";
+import CardList from "../components/Cardlist";
 import Button from "../components/button";
 
 const Home =() => {
